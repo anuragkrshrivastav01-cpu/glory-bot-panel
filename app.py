@@ -4,7 +4,7 @@ import time
 # Dashboard ka Title aur Theme
 st.set_page_config(page_title="Glory Bot Pro", layout="wide")
 
-st.title("🛡️ Glory & Level Farming Bot - Dashboard")
+st.title("🛡️ ANU 000 GUILD GLORY")
 st.markdown("---")
 
 # Sidebar - Settings ke liye
